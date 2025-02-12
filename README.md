@@ -20,7 +20,8 @@ to install any of these styles you need [Stylus](https://github.com/openstyles/s
 ## styles
 
 <details>
-<summary style="font-size: 15px; font-weight:bold">re-Pinterest<p style="font-weight:400;font-size:12px">re-styled pinterest.com / only dark mode</p></summary>
+<summary>re-Pinterest</summary>
+<p>re-styled pinterest.com / only dark mode</p>
 <img src="./re-pinterest/img/preview.png">
 <br>
 <a href="https://userstyles.world/style/18533/darkerest"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-285959.svg?style=flat-square"></a>
@@ -28,7 +29,8 @@ to install any of these styles you need [Stylus](https://github.com/openstyles/s
 </details>
 
 <details>
-<summary style="font-size: 15px; font-weight:bold">re-AOTY<p style="font-weight:400;font-size:12px">re-styled albumoftheyear.org / only dark mode</p></summary>
+<summary>re-AOTY</summary>
+<p>re-styled albumoftheyear.org / only dark mode</p>
 <img src="./re-aoty/img/preview.png">
 <br>
 <a href="https://userstyles.world/style/19901/reimagined-aoty"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-285959.svg?style=flat-square"></a>
@@ -36,7 +38,8 @@ to install any of these styles you need [Stylus](https://github.com/openstyles/s
 </details>
 
 <details>
-<summary style="font-size: 15px; font-weight:bold">re-Dafont<p style="font-weight:400;font-size:12px">re-styled dafont.com / only dark mode</p></summary>
+<summary>re-Dafont</summary>
+<p>re-styled dafont.com / only dark mode</p>
 <img src="./re-dafont/img/preview.png">
 <br>
 <a href="https://userstyles.world/style/20587/reimagined-dafont"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-285959.svg?style=flat-square"></a>
@@ -44,7 +47,8 @@ to install any of these styles you need [Stylus](https://github.com/openstyles/s
 </details>
 
 <details>
-<summary style="font-size: 15px; font-weight:bold">re-Bigjpg<p style="font-weight:400;font-size:12px">re-styled bigjpg.com / only dark mode</p></summary>
+<summary>re-Bigjpg</summary>
+<p>re-styled bigjpg.com / only dark mode</p>
 <img src="./re-bigjpg/img/preview.png">
 <br>
 <a href="https://userstyles.world/style/20825/re-bigjpg"><img src="https://img.shields.io/badge/install%20directly%20with-Stylus-285959.svg?style=flat-square"></a>
